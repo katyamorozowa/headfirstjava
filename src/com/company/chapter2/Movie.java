@@ -12,7 +12,7 @@ public class Movie
 
     void playIt()
     {
-        System.out.println("Проигрывание фильма" + " \"" + title + "\"");
+        System.out.println("Проигрывание фильма" + " \"" + title + "\"" + ", " + genre);
     }
 }
 
