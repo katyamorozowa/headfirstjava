@@ -7,6 +7,6 @@ public class Main3
 {
     public static void main(String[] args)
     {
-        System.out.println("This is test 3");
+        System.out.println("Lesha is the best husband in the World");
     }
 }
